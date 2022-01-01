@@ -3,6 +3,7 @@ package system.class08;
 import java.util.HashMap;
 
 /**
+ * 使用固定数组和哈希表分别实现前缀树
  * 该程序完全正确
  * @author 张志伟
  * @version v1.0
