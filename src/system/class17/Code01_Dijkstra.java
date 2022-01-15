@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 
 /**
+ * 利用加强堆优化迪杰斯特拉算法
  * @author 张志伟
  * @version v1.0
  */
